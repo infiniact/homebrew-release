@@ -8,7 +8,7 @@ InfiniAct 官方 Homebrew 安装源：`brew install --cask infiniact/release/<�
 |---|---|
 | [IATerm](https://www.iaterm.ai) —— AI 时代的终端 | `brew install --cask infiniact/release/iaterm` |
 
-> 以前通过 `infiniact/iaterm` 安装过？执行 `brew update`，Homebrew 会自动迁移到这里。
+> 以前通过 `infiniact/iaterm` 安装过？执行 `brew update`；如提示迁移 / 信任警告，再执行 `brew install --cask infiniact/release/iaterm` 即可完成。
 >
 > GitHub 下载较慢时（如国内网络），可直接从 [www.iaterm.ai](https://www.iaterm.ai) 下载 DMG。
 
