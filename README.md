@@ -7,6 +7,7 @@ Official Homebrew tap for InfiniAct apps: `brew install --cask infiniact/release
 | App | Install |
 |---|---|
 | [IATerm](https://www.iaterm.ai) — the terminal for the AI era | `brew install --cask infiniact/release/iaterm` |
+| [IaAide](https://www.iaaide.ai) — the AI friend that gets things done | `brew install --cask infiniact/release/iaaide` |
 
 > Previously installed from `infiniact/iaterm`? Run `brew update`; if Homebrew prints a migration/trust warning, run `brew install --cask infiniact/release/iaterm` to finish.
 
