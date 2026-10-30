@@ -7,6 +7,7 @@ InfiniAct 官方 Homebrew 安装源：`brew install --cask infiniact/release/<�
 | 应用 | 安装 |
 |---|---|
 | [IATerm](https://www.iaterm.ai) —— AI 时代的终端 | `brew install --cask infiniact/release/iaterm` |
+| [IaAide](https://www.iaaide.ai) —— 帮你把事办完的 AI 好友 | `brew install --cask infiniact/release/iaaide` |
 
 > 以前通过 `infiniact/iaterm` 安装过？执行 `brew update`；如提示迁移 / 信任警告，再执行 `brew install --cask infiniact/release/iaterm` 即可完成。
 >
