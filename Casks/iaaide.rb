@@ -1,13 +1,13 @@
 cask "iaaide" do
-  version "0.0.80"
+  version "0.0.82"
 
   on_arm do
-    sha256 "eca3ba9835012dea0135e7672366ff60f96a733a6ec412c7a49435bf6a6215c0"
+    sha256 "c126c2308f726d8a15a28d0d57e34e081680d66269e494171acda5239db2c406"
 
     url "https://github.com/infiniact/homebrew-iaaide/releases/download/v#{version}/IaAide-#{version}-arm64.dmg"
   end
   on_intel do
-    sha256 "942ba8c80e938ed13a64be9463015d1e9c2c5286a9b0add13a72ba5d6e70204e"
+    sha256 "70a3a0724cfa8caea4eddf996eb71b20f564e071a0ad1c69d7bd367e614dea86"
 
     url "https://github.com/infiniact/homebrew-iaaide/releases/download/v#{version}/IaAide-#{version}-x64.dmg"
   end
