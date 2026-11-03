@@ -1,6 +1,8 @@
 cask "iaaide" do
   version "0.0.82"
 
+  disable! date: "2026-11-03", because: "IaAide Homebrew distribution is paused; its download assets have been withdrawn"
+
   on_arm do
     sha256 "c126c2308f726d8a15a28d0d57e34e081680d66269e494171acda5239db2c406"
 
